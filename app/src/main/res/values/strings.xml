@@ -1,0 +1,40 @@
+<resources>
+
+    <string name="app_name">basamet</string>
+
+<string name="access_token" translatable="false">pk.eyJ1IjoibmF3cmVzOTkiLCJhIjoiY2ttNG94bGQzMDZyNzJxdWk3enh5OWtwbSJ9.bcznn9r8vypmZ3JQje-fhQ</string>
+<string name="user_location_permission_explanation" translatable="false">sk.eyJ1IjoibmF3cmVzOTkiLCJhIjoiY2ttNHV4ZHRyMDdkdDJycXRweWIxaDI3YSJ9.NkB9jySCSOsxINu_FQK63g
+</string>
+<string name="user_location_permission_not_granted" translatable="false">You didn\'t grant location permissions.</string>
+
+<string name="title_activity_maps">Map</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="navi"></string>
+    <string name="facebook_app_id">1641716489549885</string>
+    <string name="fb_login_protocol_scheme">fb1641716489549885</string>
+    <string name="sign_scanner" />
+    <string name="home_page" />
+    <string name="achievements" />
+    <string name="map" />
+    <string name="kimo" />
+    <string name="_3000" />
+    <string name="log_out" />
+    <string name="leaderbord" />
+    <string name="profile" />
+    <string name="home" />
+    <string-array name="event">
+        <item>Festival d art des lumiéres</item>
+        <item>Hand crafting workshop</item>
+    </string-array>
+    <string-array name="location">
+        <item>cite de la culture</item>
+        <item>Medina de Tunis</item>
+    </string-array>
+    <string-array name="price">
+        <item>Free</item>
+        <item>15 dinars</item>
+    </string-array>
+
+
+</resources>
